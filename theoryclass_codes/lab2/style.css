@@ -1,0 +1,15 @@
+.box{
+    height: 300px;
+    width: 400px;
+    padding: 20px;
+    border: 100px;
+    border-color: red;
+    background-color: black;
+}
+.box2{
+    margin-top: 200px;
+    width: 40vh;
+    border: 4px;
+    border-color: bisque;
+    background-color: brown;
+}

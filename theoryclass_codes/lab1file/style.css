@@ -1,0 +1,60 @@
+body{
+    background-color: burlywood;
+}.container{
+    height: 100%;
+        width: 100%;
+        background-color: burlywood;
+
+}.box{
+        height: 130px;
+        margin-top: 30px;
+        width: 90%;
+        margin-left: 4%;
+        background-color: brown;
+        text-align: center;
+        color: aliceblue;
+        padding-top: 50px ;
+        font-size: 10px;
+        border-color: antiquewhite;
+        border: 20px;
+    
+    }
+    .navbar{
+        height: 2%;
+        margin-left: 75px;
+        width: 90%;
+        background-color: rgb(135, 44, 44);
+        align-items: center;
+        display: flex;
+        align-content: center;
+        gap: 30px;
+        font-size: small;
+
+    }
+    .navbar h2{
+        color: azure;
+    }
+    .content{
+        margin-top: 30px;
+        padding:13px;
+        height: 90vh;
+        width: 85%;
+        margin-left: 100px;
+        background-color: aquamarine;
+        font-size: large;    
+    }
+    table {
+        padding: 30px;
+        width: 100%;
+        border-collapse: collapse;
+        text-align: center;
+    }
+
+    th {
+        background-color: lightgray;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        padding: 10px;
+    }
